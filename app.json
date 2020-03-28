@@ -1,0 +1,9 @@
+{
+  "name": "n2n",
+  "description": "Deploy n2n to Heroku.",
+  "keywords": [
+    "n2n"
+  ],
+  "repository": "https://github.com/work-chausat/n2n-heroku",
+  "stack": "container"
+}
